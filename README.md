@@ -1,0 +1,2 @@
+# Crop-Yield-Prediction-and-Recommendation-System-using-Machine-Learning
+🌱 Crop Yield Prediction and Recommendation System using Machine Learning predicts crop production using historical agricultural data such as state, season, area, and year. The system also recommends the best crop for a selected state using Random Forest Regression and provides visualization through a Streamlit-based web interface.
